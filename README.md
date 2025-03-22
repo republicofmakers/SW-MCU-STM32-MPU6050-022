@@ -1,6 +1,6 @@
 # SW-MCU-STM32-MPU6050-022
 
-Here is simple code for 3-Axis Gyro	MPU6050 with 2004 LCD.
+Here is simple code for gyro and accelorometer reading from	MPU6050.
 
 ## Setup:
 
